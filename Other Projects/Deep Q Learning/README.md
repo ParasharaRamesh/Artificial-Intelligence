@@ -1,6 +1,4 @@
 
-Under construction....
-=======
 # DQN-DDQN-on-Atari
 Implementation of Double Deep Q Networks and Dueling Q Networks using Keras on Atari games using OpenAI Gym. Code can be easily generalized for other simple games.
 
